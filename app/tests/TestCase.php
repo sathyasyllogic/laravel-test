@@ -4,7 +4,7 @@ class TestCase extends Illuminate\Foundation\Testing\TestCase {
 
 	/**
 	 * Creates the application.
-	 *
+	 * Changes made by Venkat
 	 * @return \Symfony\Component\HttpKernel\HttpKernelInterface
 	 */
 	public function createApplication()
